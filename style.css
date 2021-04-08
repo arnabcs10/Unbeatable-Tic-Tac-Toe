@@ -2,6 +2,7 @@
 body {
 	margin: 0;
 	padding: 0;
+	font-family: 'Patua One', cursive;
 }
 
 header {
@@ -21,7 +22,7 @@ header {
 p {
 	font-size: 14pt;
 	font-weight: bold;
-	font-family: Sans;
+	/* font-family: Sans; */
 	text-align: center;
 	position: relative;
 	text-align: center;
@@ -47,7 +48,7 @@ a:visited {
 	margin-right: auto;
 	padding: 5px;
 	font-size: 4em;
-	font-family: Sans;
+	/* font-family: Sans; */
 	color: #444;
 	background: #F8F8F8;
 	width: 310px;
