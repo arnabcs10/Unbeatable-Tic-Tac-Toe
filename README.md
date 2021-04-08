@@ -2,7 +2,7 @@
 An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game. Try it: [Unbeatable Tic-Tac-Toe](https://unbeatable-tic-tac-toe-game.netlify.app/)
 
 <p align="center">
-	<img src="preview/sample.png"></img>
+	<img src="preview/sample-img.png"></img>
 </p>
 
 ## Introduction
